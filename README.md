@@ -8,3 +8,4 @@
   * Create a cron using `crontab -e`.
   * Use an interval you want to schedule your cron.
   * eg. `0-59 * * * * /home/user/Documents/no_ip_update.sh` to run this script every minute.
+* Ref: https://www.noip.com/integrate/request
